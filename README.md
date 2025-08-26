@@ -33,7 +33,7 @@ Modelo 3D de molécula con animaciones e interacción con marcadores físicos pe
 
 **Carrera**: [Ingeniería en Tecnologías de la Información]  
 **Institución**: [Universidad de las Fuerzas Armadas ESPE]  
-**En curso / Finalizado**: [2020-2025]
+**Finalizado**: [2020-2025]
 
 ---
 
